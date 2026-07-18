@@ -21,8 +21,8 @@ betabytez-aiml-task2-ummehabiba/
 ├── data/
 │   ├── pima_diabetes.csv
 │   └── loan_prediction.csv
-├── notebooks/
-│   └── Task2_Model_Comparison.ipynb   # full analysis, models, comparison report
+├── notebook
+│     # full analysis, models, comparison report
 ├── requirements.txt
 └── README.md
 ```
